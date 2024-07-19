@@ -1,5 +1,5 @@
 # 1337 Bengrir 
-<h2>Welcome to the 1337 Bengrir! This repository is dedicated to sharing the Pool/picine experience.</h2>
+<h2>Welcome to the 1337 Bengrir!</h2>
 
 ![IMG_3522](Images/IMG_2966.jpg)
 

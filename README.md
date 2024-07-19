@@ -3,7 +3,7 @@
 
 ![IMG_3522](Images/IMG_2966.jpg)
 
-## Introduction / Rules : 
+## Introduction : 
 
 42 is a pioneering computer programming school that offers free education to students aged 18 and above, regardless of educational background. At 42, learning is driven by peer interaction rather than traditional lectures or teachers.
 

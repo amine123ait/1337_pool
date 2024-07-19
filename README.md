@@ -1,4 +1,4 @@
-# 1337 Bengrir 
+# 42 Network 
 <h2>Welcome to the 1337 Bengrir!</h2>
 
 ![IMG_3522](Images/IMG_2966.jpg)

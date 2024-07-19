@@ -1,0 +1,6 @@
+## Create file 
+
+touch \"'\?$*'\''MaRViN'\''*$?\"'
+
+## add 42 to file 
+printf '42' >> '"\?$*'\''MaRViN'\''*$?\"'

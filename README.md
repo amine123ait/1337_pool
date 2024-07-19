@@ -1,6 +1,7 @@
 # 1337 Bengrir 
 <h2>Welcome to the 1337 Bengrir! This repository is dedicated to sharing the Pool/picine experience.</h2>
-<img src="https://github.com/user-attachments/assets/909fc70a-775a-49e8-9862-b8d6467d8e5f" alt="IMG_3522" width="400" >
+
+![IMG_3522](Images/IMG_2966.jpg)
 
 ## Introduction / Rules : 
 
